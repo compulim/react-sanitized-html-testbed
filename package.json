@@ -1,0 +1,31 @@
+{
+  "name": "react-sanitized-html-testbed",
+  "author": {
+    "email": "compulim@hotmail.com",
+    "name": "William Wong",
+    "url": "https://github.com/compulim"
+  },
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/compulim/react-sanitized-html-testbed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/compulim/react-sanitized-html-testbed/issues"
+  },
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-sanitized-html": "^2.0.0",
+    "react-scripts": "1.0.17",
+    "sanitize-html": "^1.16.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
